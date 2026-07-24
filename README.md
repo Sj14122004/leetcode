@@ -146,6 +146,7 @@
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/shivam1209567/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0771-jewels-and-stones](https://github.com/shivam1209567/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0784-letter-case-permutation](https://github.com/shivam1209567/leetcode/tree/master/0784-letter-case-permutation) |
@@ -209,6 +210,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivam1209567/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/shivam1209567/leetcode/tree/master/2717-semi-ordered-permutation) |
