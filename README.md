@@ -549,6 +549,7 @@
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivam1209567/leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
@@ -597,6 +598,7 @@
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -633,4 +635,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
