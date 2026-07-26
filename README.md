@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam1209567/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shivam1209567/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shivam1209567/leetcode/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shivam1209567/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
@@ -337,6 +338,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -486,6 +488,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivam1209567/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
@@ -536,6 +539,7 @@
 | [0113-path-sum-ii](https://github.com/shivam1209567/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivam1209567/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivam1209567/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam1209567/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -597,6 +601,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivam1209567/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/shivam1209567/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
