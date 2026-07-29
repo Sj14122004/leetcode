@@ -561,6 +561,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivam1209567/leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -615,6 +616,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -656,6 +658,7 @@
 | [0210-course-schedule-ii](https://github.com/shivam1209567/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
@@ -663,4 +666,5 @@
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/shivam1209567/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shivam1209567/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
