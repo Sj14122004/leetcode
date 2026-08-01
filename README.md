@@ -355,6 +355,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shivam1209567/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/shivam1209567/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -563,6 +564,7 @@
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -618,6 +620,7 @@
 | [0226-invert-binary-tree](https://github.com/shivam1209567/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivam1209567/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -660,6 +663,7 @@
 | [0207-course-schedule](https://github.com/shivam1209567/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shivam1209567/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -670,4 +674,8 @@
 | [0207-course-schedule](https://github.com/shivam1209567/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shivam1209567/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
