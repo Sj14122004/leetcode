@@ -46,6 +46,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivam1209567/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -360,6 +361,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -667,6 +669,7 @@
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -678,4 +681,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->
