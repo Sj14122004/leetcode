@@ -47,6 +47,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/shivam1209567/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivam1209567/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -228,6 +229,7 @@
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivam1209567/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam1209567/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Number Theory
@@ -345,6 +347,7 @@
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -362,6 +365,7 @@
 | [1046-last-stone-weight](https://github.com/shivam1209567/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +504,7 @@
 | [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shivam1209567/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -571,6 +576,7 @@
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivam1209567/leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
@@ -626,6 +632,7 @@
 | [0785-is-graph-bipartite](https://github.com/shivam1209567/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Doubly-Linked List
@@ -682,4 +689,8 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shivam1209567/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
