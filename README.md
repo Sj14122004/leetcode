@@ -61,6 +61,7 @@
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/shivam1209567/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2717-semi-ordered-permutation](https://github.com/shivam1209567/leetcode/tree/master/2717-semi-ordered-permutation) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivam1209567/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivam1209567/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivam1209567/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shivam1209567/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -97,6 +98,7 @@
 | [1512-number-of-good-pairs](https://github.com/shivam1209567/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/shivam1209567/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/shivam1209567/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivam1209567/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam1209567/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -126,6 +128,7 @@
 | [1952-three-divisors](https://github.com/shivam1209567/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam1209567/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shivam1209567/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/shivam1209567/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam1209567/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivam1209567/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
@@ -354,6 +357,7 @@
 | [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/shivam1209567/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
