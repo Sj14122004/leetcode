@@ -21,6 +21,7 @@
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam1209567/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@
 | [0027-remove-element](https://github.com/shivam1209567/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam1209567/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shivam1209567/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivam1209567/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
@@ -310,6 +312,7 @@
 | [0018-4sum](https://github.com/shivam1209567/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivam1209567/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam1209567/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -737,4 +740,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivam1209567/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
