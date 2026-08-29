@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam1209567/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/shivam1209567/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
@@ -317,6 +318,7 @@
 | [0018-4sum](https://github.com/shivam1209567/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shivam1209567/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/shivam1209567/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivam1209567/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -748,6 +750,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/shivam1209567/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
