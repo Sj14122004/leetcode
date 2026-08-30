@@ -27,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shivam1209567/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shivam1209567/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam1209567/leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam1209567/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivam1209567/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -156,6 +157,7 @@
 | [0058-length-of-last-word](https://github.com/shivam1209567/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/shivam1209567/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/shivam1209567/leetcode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/shivam1209567/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/shivam1209567/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivam1209567/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -351,6 +353,7 @@
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shivam1209567/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/shivam1209567/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam1209567/leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/shivam1209567/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/shivam1209567/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0784-letter-case-permutation](https://github.com/shivam1209567/leetcode/tree/master/0784-letter-case-permutation) |
@@ -374,6 +377,7 @@
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shivam1209567/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/shivam1209567/leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shivam1209567/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -576,6 +580,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/shivam1209567/leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivam1209567/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/shivam1209567/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
