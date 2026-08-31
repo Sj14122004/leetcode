@@ -616,6 +616,7 @@
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivam1209567/leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1462-course-schedule-iv](https://github.com/shivam1209567/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -673,6 +674,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam1209567/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1462-course-schedule-iv](https://github.com/shivam1209567/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivam1209567/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/shivam1209567/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -718,6 +720,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam1209567/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shivam1209567/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1462-course-schedule-iv](https://github.com/shivam1209567/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/shivam1209567/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivam1209567/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivam1209567/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -727,6 +730,7 @@
 | [0207-course-schedule](https://github.com/shivam1209567/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shivam1209567/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivam1209567/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1462-course-schedule-iv](https://github.com/shivam1209567/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
