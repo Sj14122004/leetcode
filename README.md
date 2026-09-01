@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/shivam1209567/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shivam1209567/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam1209567/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/shivam1209567/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/shivam1209567/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/shivam1209567/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivam1209567/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -240,6 +241,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shivam1209567/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/shivam1209567/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -384,6 +386,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/shivam1209567/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shivam1209567/leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/shivam1209567/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shivam1209567/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/shivam1209567/leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/shivam1209567/leetcode/tree/main/0200-number-of-islands/) | Medium |
