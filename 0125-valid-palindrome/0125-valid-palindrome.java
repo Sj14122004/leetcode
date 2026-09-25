@@ -1,19 +1,22 @@
 class Solution {
-    
-    public static boolean check(int n , String s){
-        int m = s.length()-1;
-        if(n >= m){
-            return true;
-        }
-        if(s.charAt(n) != s.charAt(m-n)){
-            return false;
-
-        }
-        return check(n+1,s);
-    }
     public boolean isPalindrome(String s) {
-      s = s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
-      return check(0,s);
-
+        Stack<Character> st = new Stack<>();
+        String chk = "";
+        for(int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if(!Character.isDigit(ch)){
+            if(!Character.isLetter(ch)) {
+                continue;
+            }
+            }
+            chk += Character.toLowerCase(ch);
+            st.push(Character.toLowerCase(ch));
+        }
+        String ans = "";
+        while(!st.isEmpty()) {
+            ans += st.pop();
+        }
+        if(chk.equals(ans)) return true;
+        return false;
     }
 }
