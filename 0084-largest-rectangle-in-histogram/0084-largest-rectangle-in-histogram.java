@@ -1,43 +1,38 @@
 class Solution {
+    int ans = 0;
     public int largestRectangleArea(int[] heights) {
         int l = heights.length;
+        int left[] = new int[l];
         Stack<Integer> st = new Stack<>();
-        int nextSmaller[] = new int [l];
-        int prevSmaller[] = new int [l];
-        st.push(l-1);
-        nextSmaller[l-1] = l;
-        for(int i = l-2; i >= 0; i--){
-        while(!st.isEmpty() && heights[st.peek()] >= heights[i]){
-            st.pop();
+        for(int i = 0; i < l; i++) {
+            while(!st.isEmpty() && heights[st.peek()] >= heights[i]) {
+                st.pop();
+            }
+            if(st.isEmpty()){
+                left[i] = -1;
+            }else{
+                left[i] = st.peek();
+            }
+            st.push(i);
         }
-        if(st.size() == 0){
-            nextSmaller[i] = l;
-        }else{
-            nextSmaller[i] = st.peek();
-      }
-        st.push(i);
-        
-    }
-    while(st.size() > 0) st.pop();
-    st.push(0);
-    prevSmaller[0] = -1;
-    for(int i = 1; i < l; i++){
-        while(!st.isEmpty() && heights[st.peek()] >= heights[i]){
-            
-            st.pop();
+        int right[] = new int[l];
+        st.clear();
+        for(int i = l-1; i >= 0; i--) {
+            while(!st.isEmpty() && heights[st.peek()] >= heights[i]) {
+                st.pop();
+            }
+            if(st.isEmpty()){
+                right[i] = l;
+            }else{
+                right[i] = st.peek();
+            }
+            st.push(i);
         }
-        if(st.isEmpty()){
-            prevSmaller[i] = -1;
-        }else{
-            prevSmaller[i] = st.peek();
+
+        for(int i = 0; i < l; i++) {
+            int area = heights[i] * (right[i] - left[i] - 1);
+            ans = Math.max(ans,area);
         }
-        st.push(i);
+        return ans;
     }
-    int ans = 0;
-    for(int i = 0; i < l; i++){
-        int area = heights[i] * (nextSmaller[i] - prevSmaller[i] - 1);
-         ans = Math.max(ans,area);
-    }
-    return ans;
-}
 }
