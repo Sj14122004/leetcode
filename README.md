@@ -805,6 +805,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivam1209567/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/shivam1209567/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
