@@ -1,89 +1,48 @@
 class Solution {
-
-    int count = 0;
-
-    public int reversePairs(int[] nums) {
-
-        mergeSort(nums, 0, nums.length - 1);
-
+    public int count(int[] nums, int start, int mid, int end) {
+        int j = mid+1;
+        int count = 0;
+        for(int i = start; i <= mid; i++) {
+            while(j <= end && nums[i] > 2L*nums[j]) j++;
+            count += j - (mid+1);
+        }
         return count;
     }
-
-    public void mergeSort(int[] nums,
-                          int si,
-                          int ei){
-
-        if(si >= ei){
-            return;
-        }
-
-        int mid = si + (ei - si) / 2;
-
-        mergeSort(nums, si, mid);
-
-        mergeSort(nums, mid + 1, ei);
-
-        countPairs(nums, si, mid, ei);
-
-        merge(nums, si, mid, ei);
-    }
-
-    public void countPairs(int[] nums,
-                           int si,
-                           int mid,
-                           int ei){
-
-        int right = mid + 1;
-
-        for(int i = si; i <= mid; i++){
-
-            while(right <= ei &&
-                  nums[i] > 2L * nums[right]){
-
-                right++;
-            }
-
-            count += right - (mid + 1);
-        }
-    }
-
-    public void merge(int[] nums,
-                      int si,
-                      int mid,
-                      int ei){
-
-        int[] merged = new int[ei - si + 1];
-
-        int idx1 = si;
-        int idx2 = mid + 1;
-        int x = 0;
-
-        while(idx1 <= mid && idx2 <= ei){
-
-            if(nums[idx1] <= nums[idx2]){
-
-                merged[x++] = nums[idx1++];
-
-            } else {
-
-                merged[x++] = nums[idx2++];
+    public void merge(int [] nums, int start , int mid, int end) {
+        int i = start;
+        int j = mid+1;
+        int [] temp = new int[end-start+1];
+        int c = 0;
+        while(i <= mid && j <= end) {
+            if(nums[i] <= nums[j]) {
+                temp[c++] = nums[i++];
+            }else {
+                temp[c++] = nums[j++];
             }
         }
-
-        while(idx1 <= mid){
-            merged[x++] = nums[idx1++];
+        while(i <= mid ){
+            temp[c++] = nums[i++];
         }
-
-        while(idx2 <= ei){
-            merged[x++] = nums[idx2++];
+        while(j <= end) {
+            temp[c++] = nums[j++];
         }
-
-        // copy back
-        for(int i = 0, j = si;
-            i < merged.length;
-            i++, j++){
-
-            nums[j] = merged[i];
+        for(int x = 0; x < temp.length; x++) {
+            nums[x+start] = temp[x];
         }
+    }
+    public int mergesort(int [] nums, int start, int end) {
+        if(start >= end) {
+            return 0;
+        }
+        int mid = start + (end-start)/2;
+        int count = 0;
+        count += mergesort(nums,start,mid);
+        count += mergesort(nums,mid+1,end);
+        count += count(nums,start,mid,end);
+        merge(nums,start,mid,end);
+        return count;
+    }
+    public int reversePairs(int[] nums) {
+        return mergesort(nums,0,nums.length-1);
     }
 }
