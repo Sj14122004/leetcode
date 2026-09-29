@@ -104,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/shivam1209567/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivam1209567/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shivam1209567/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0567-permutation-in-string](https://github.com/shivam1209567/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shivam1209567/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/shivam1209567/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0771-jewels-and-stones](https://github.com/shivam1209567/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -175,6 +176,7 @@
 | [0394-decode-string](https://github.com/shivam1209567/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/shivam1209567/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/shivam1209567/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/shivam1209567/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/shivam1209567/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/shivam1209567/leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0771-jewels-and-stones](https://github.com/shivam1209567/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -221,6 +223,7 @@
 | [0295-find-median-from-data-stream](https://github.com/shivam1209567/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/shivam1209567/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shivam1209567/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/shivam1209567/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shivam1209567/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivam1209567/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -477,6 +480,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam1209567/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shivam1209567/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/shivam1209567/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shivam1209567/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/shivam1209567/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivam1209567/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
