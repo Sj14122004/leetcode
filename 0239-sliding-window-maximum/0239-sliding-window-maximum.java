@@ -1,33 +1,30 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        Stack<Integer> st = new Stack<>();
-         int n = nums.length;
-         int ans [] = new int[n-k+1];
-        int [] arr = new int[nums.length];
-        st.push(n-1);
-        arr[n-1] = n;
-        for(int i = nums.length - 2; i>= 0; i--){
-            while(st.size() > 0 && nums[i] >= nums[st.peek()]){
-                st.pop();
+        Deque<Integer> dq = new ArrayDeque<>();
+        ArrayList<Integer> list = new ArrayList<>();
+        for(int i = 0; i < k; i++) {
+            while(!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]) {
+                dq.removeLast();
             }
-            if(st.isEmpty()){
-                arr[i] = n;
-            }else{
-            arr[i] = st.peek();
+            dq.addLast(i);
+        }
+        for(int i = k; i < nums.length; i++) {
+            list.add(nums[dq.peekFirst()]);
+            while(!dq.isEmpty() && dq.peekFirst() <= i-k) {
+                dq.removeFirst();
             }
-            st.push(i);
+            while(!dq.isEmpty() && nums[dq.peekLast()] <= nums[i]) {
+                dq.removeLast();
             }
-        int j = 0;
-        for(int i = 0; i < n - k + 1; i++){
-        if(j >= i + k) j = i;
-           int max = nums[j];
-           while(j < i+k){ //j < i+k;
-            max = nums[j]; //j = nsg[j]
-
-            j = arr[j];
-           }
-           ans[i] = max;//ans[i] = nsg[j];
+            dq.addLast(i);
+        }
+        list.add(nums[dq.peekFirst()]);
+        int[] ans = new int[list.size()];
+        int i = 0;
+        while(i < list.size()) {
+            ans[i] = list.get(i);
+            i++;
         }
         return ans;
-     }
+    }
 }
