@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-17T10:51:10.906Z",
+  "updatedAt": "2026-11-17T10:51:55.938Z",
   "problems": [
     {
       "frontendId": "42",
@@ -24,6 +24,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
           "sha": "b406297dec07bc844750258dec41f0c03e6d3e6d",
           "lastSyncedAt": "2026-11-17T10:51:10.906Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1910",
+      "title": "Remove All Occurrences of a Substring",
+      "slug": "remove-all-occurrences-of-a-substring",
+      "problemName": "1910-remove-all-occurrences-of-a-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+      "folderPath": "1910-remove-all-occurrences-of-a-substring/",
+      "readmePath": "1910-remove-all-occurrences-of-a-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1910-remove-all-occurrences-of-a-substring.java",
+          "path": "1910-remove-all-occurrences-of-a-substring/1910-remove-all-occurrences-of-a-substring.java",
+          "sha": "236d7ee544837e59ca976202c66c8cf4bad5ac5d",
+          "lastSyncedAt": "2026-11-17T10:51:55.938Z"
         }
       ]
     }
